@@ -1,0 +1,21 @@
+{
+	"name": "ShrekDealer",
+	"namespace": "Squix",
+	"version_number": "1.0.0",
+	"description": "Mod description goes here",
+	"website_url": "https://github.com/example/repo",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"authors": ["Squix"],
+			"tags": [],
+			"description_rich": "",
+			"optional_dependencies": [],
+			"load_before": [],
+			"incompatibilities": [],
+			"compatible_mod_loader_version": ["6.2.0"],
+			"compatible_game_version": ["2.0.0"],
+			"config_schema": {}
+		}
+	}
+}
