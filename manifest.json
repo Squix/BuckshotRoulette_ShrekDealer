@@ -1,0 +1,21 @@
+{
+  "name": "ShrekDealer",
+  "namespace": "Squix",
+  "version_number": "1.0.0",
+  "description": "Shrek has eaten the Dealer !",
+  "website_url": "https://github.com/Squix/BuckshotRoulette_ShrekDealer",
+  "dependencies": [],
+  "extra": {
+    "godot": {
+      "authors": ["Squix"],
+      "tags": [],
+      "description_rich": "",
+      "optional_dependencies": [],
+      "load_before": [],
+      "incompatibilities": [],
+      "compatible_mod_loader_version": ["6.2.0"],
+      "compatible_game_version": ["2.0.0"],
+      "config_schema": {}
+    }
+  }
+}
